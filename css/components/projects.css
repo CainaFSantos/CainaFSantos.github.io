@@ -79,8 +79,8 @@
 
 .card:hover {
   border-color: var(--pink);
-  -webkit-box-shadow: 10px 5px 18px 0 rgba(255, 255, 255, 0.877);
-  box-shadow: 10px 5px 18px 0 rgba(255, 255, 255, 0.877);
+  -webkit-box-shadow: 10px 5px 18px 0 var(--pink);
+  box-shadow: 10px 5px 18px 0 var(--pink);
 }
 
 .card:hover .card-button {
